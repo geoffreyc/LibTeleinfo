@@ -10,6 +10,7 @@
   "version": "1.0.2",
   "author" : "Charles-Henri Hallard",
   "frameworks": "arduino",
-  "platforms": "*"  
+  "platforms": "*",
+  "license": "MIT",
 }
 
