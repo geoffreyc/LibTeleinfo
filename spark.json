@@ -1,16 +1,7 @@
 {
   "name": "LibTeleinfo",
-  "keywords": "teleinfo, french, meter, power, erdf, linky",
-  "description": "Teleinfo French power meter reader and decoding",
-  "repository":
-  {
-    "type": "git",
-    "url": "https://github.com/hallard/LibTeleinfo.git"
-  },
+  "author": "Charles-Henri Hallard <john@doe.io>",
+  "license": "MIT",
   "version": "1.0.2",
-  "author" : "Charles-Henri Hallard",
-  "frameworks": "arduino",
-  "platforms": "*",
-  "license": "MIT"
+  "description": "Teleinfo French power meter reader and decoding"
 }
-
