@@ -11,6 +11,6 @@
   "author" : "Charles-Henri Hallard",
   "frameworks": "arduino",
   "platforms": "*",
-  "license": "MIT",
+  "license": "MIT"
 }
 
