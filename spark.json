@@ -8,11 +8,7 @@
     "url": "https://github.com/hallard/LibTeleinfo.git"
   },
   "version": "1.0.2",
-  "authors":
-  {
-    "name": "Charles-Henri Hallard",
-    "url": "http://hallard.me"
-  },
+  "author" : "Charles-Henri Hallard",
   "frameworks": "arduino",
   "platforms": "*"  
 }
